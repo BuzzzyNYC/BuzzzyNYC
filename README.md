@@ -1,4 +1,4 @@
-### Hello, I'm Trang 👋
+### Hello, I'm Trang (Lily) 👋
 
 - 🔭 I’m currently working on a personal blog about my journey of becoming a programmer.
 - 🌱 I’m currently learning web programming.
