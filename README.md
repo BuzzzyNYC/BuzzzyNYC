@@ -4,7 +4,7 @@
  - 🌱 I’m currently learning web programming in HTML/CSS and JS with Flask framework.
  - 👯 I’m looking to learn and collaborate on web development.
  - ⚡ Fun fact: born in Vietnam, lived in Siberia for 5 years, now im located in NYC. 
- - I can speak 4 languagues: Vietnamese, English, Russian, Korean(beginner).
+ - I can speak 4 languagues: Vietnamese, English, Russian, Korean(conversational).
 
 ### Привет! меня зовут Чанг (Лили)
 Я работаю над личным проектом про мой путь к тому, чтобы стать веб-программтстом. 
