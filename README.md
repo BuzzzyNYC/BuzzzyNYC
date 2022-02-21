@@ -37,7 +37,7 @@ Hiện tại mình đang học lập trình website và mong muốn được k�
 <!--<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>-->
 <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank"> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mySQL" width="40" height="40"/> </a>
- 
+<a href="https://atom.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="40" height="40"/> </a>
    </p>
 <br />
 <p align="center">
