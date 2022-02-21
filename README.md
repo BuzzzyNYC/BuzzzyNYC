@@ -1,13 +1,13 @@
 ### Hello, I'm Trang (Lily) 👋
 
- - 🔭 I’m currently working on a personal blog about my journey of becoming a programmer.
+ - 🔭 I’m currently working on a personal blog about my journey of becoming a web programmer.
  - 🌱 I’m currently learning web programming.
  - 👯 I’m looking to learn and collaborate on web development.
  - ⚡ Fun fact: born in Vietnam, lived in Siberia for 5 years, worked in Vietnam for 3 years. Now im located in NYC. 
  - I can speak 4 languagues: Vietnamese, English, Russian, Korean(beginner).
 
 ### Привет! меня зовут Чанг (Лили)
-Я работаю над личным проектом про мой путь к тому, чтобы стать программтстом. 
+Я работаю над личным проектом про мой путь к тому, чтобы стать веб-программтстом. 
 Я учусь веб-программировании HTML5/CSS и JavaScript.
 Напишите мне!
 
