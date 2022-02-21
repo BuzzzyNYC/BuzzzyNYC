@@ -1,7 +1,7 @@
 ### Hello, I'm Trang (Lily) 👋
 
  - 🔭 I’m currently working on a personal blog about my journey of becoming a web programmer.
- - 🌱 I’m currently learning web programming.
+ - 🌱 I’m currently learning web programming in HTML/CSS and JS with Flask framework.
  - 👯 I’m looking to learn and collaborate on web development.
  - ⚡ Fun fact: born in Vietnam, lived in Siberia for 5 years, now im located in NYC. 
  - I can speak 4 languagues: Vietnamese, English, Russian, Korean(beginner).
