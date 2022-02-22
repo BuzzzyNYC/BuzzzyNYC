@@ -41,7 +41,7 @@ Hiện tại mình đang học lập trình website và mong muốn được k�
    </p>
 <br />
 <p align="center">
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so feel free to email me and we can talk about music, coding, and projects 😊<b></b>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with people</b> so feel free to email me and we can talk about music, coding, and web dev 😊<b></b>
 </p>
 <br />
 
