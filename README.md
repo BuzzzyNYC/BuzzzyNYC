@@ -1,6 +1,7 @@
 ### 🌟 Hi there 👋🏼, I'm Trang (Lily 🌷) 🌟
 
  - 🔭 I’m currently working on a personal blog about my journey of becoming a web programmer.
+ - 🌱 I'm on 100 Days of Machine Learning Code Challenge.
  - 🌱 I’m currently learning web programming in HTML/CSS and JS with Flask framework.
  - ⚡ Fun fact: born in Vietnam, lived in Siberia for 5 years, now im located in NYC. 
  - I can speak 4 languagues: Vietnamese, English, Russian, Korean(conversational).
